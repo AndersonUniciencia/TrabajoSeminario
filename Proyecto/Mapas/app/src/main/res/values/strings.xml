@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Buscador rutas en metro</string>
+    <string name="preparando">Preparando su aplicación ...</string>
+    <string name="calculando_ruta">Calculando ruta ...</string>
+    <string name="error_origen">Origen erróneo</string>
+    <string name="error_destino">Destino erróneo</string>
+    <string name="linea_metro">Linea de metro</string>
+    <string name="camine">Camine</string>
+    <string name="metros">Metros</string>
+    <string name="titulo_dialogo">Error</string>
+    <string name="ok_dialogo">OK</string>
+    <string name="error_iconexion">Sin conexión a internet</string>
+    <string name="error_red">Problema de red</string>
+    <string name="buscador">Buscar</string>
+    <string name="metro_bogota">Metro de Bogota</string>
+    <string name="itinerario">Ruta</string>
+    <string name="origen">Origen</string>
+    <string name="destino">Destino</string>
+    <string name="buscar">Buscar ruta</string>
+    <string name="web"><a href="http://www.pildorasinformaticas.es"></a></string>
+    <string name="a_pie">A pie</string>
+    <string name="mapa">Ver en mapa</string>
+</resources>
